@@ -19,7 +19,7 @@ export default class Text1 extends React.Component {
         <Text
           style={{
             backgroundColor: 'red',
-            fontSize: 0.8,
+            fontSize: 0.4,
             fontWeight: '400',
             layoutOrigin: [0.5, 0.5],
             paddingLeft: 0.2,

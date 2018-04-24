@@ -19,7 +19,7 @@ export default class Test extends React.Component {
           <Text
             style={{
               backgroundColor: 'blue',
-              fontSize: 0.8,
+              fontSize: 0.4,
               fontWeight: '400',
               layoutOrigin: [0.5, 0.5],
               paddingLeft: 0.2,
