@@ -1,6 +1,6 @@
 # react-vr-router
 
- ![image](https://github.com/LiuC520/react-vr-router/example.gif)
+ ![image](https://github.com/LiuC520/react-vr-router/blob/master/example.gif)
 #### use [react-router](https://github.com/ReactTraining/react-router) for react-vr
  #### you can run this example 
  #### 1. git clone https://github.com/LiuC520/react-vr-router.git
