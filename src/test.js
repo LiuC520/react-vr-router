@@ -8,13 +8,13 @@ import {
   VrButton
 } from 'react-vr';
 
-export default class Test extends React.Component {
+export default class TS1 extends React.Component {
   render() {
     return (
       <View>
         <Pano source={asset('chess-world.jpg')}/>
         <VrButton onClick={()=>{
-          this.props.history.push('./test_1')
+          this.props.history.push('/test_1')
         }}>
           <Text
             style={{
